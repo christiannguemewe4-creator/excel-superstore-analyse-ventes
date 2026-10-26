@@ -4,7 +4,7 @@ Projet d'analyse de données réalisé dans **Excel** (Power Query, tableaux de 
 
 Le projet est construit comme une mission réelle : un **manager prépare la revue annuelle avec la direction** et demande un tableau de bord d'une page pour répondre à 5 questions, avec 3 recommandations concrètes.
 
-![Tableau de bord](dashboard_superstore.png)
+   ![Tableau de bord](Sans%20titredashboard.png)
 
 📊 [Fichier Excel du projet](projet_superstore.xlsx)
 
