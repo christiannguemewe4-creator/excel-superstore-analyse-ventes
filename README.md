@@ -107,6 +107,19 @@ Tables et Bookcases sont vendues avec des remises élevées (contre 15,6 % en mo
 
 ---
 
+## Méthode et utilisation de l'IA
+
+J'ai utilisé **Claude** comme assistant de travail :
+- **Code** : aide aux formules Excel et aux étapes Power Query, et au débogage.
+- **Rédaction** : reformulation des conclusions pour un public non technique.
+- **Jeu de rôle « manager »** : Claude a joué le rôle d'un manager qui pose des questions business ; j'y ai répondu par l'analyse.
+
+**Vérification des résultats :**
+- contrôle qualité dans Power Query : aucune valeur vide, aucune erreur, aucun doublon (9 994 lignes conservées) ;
+- relecture du code proposé par Claude, et correction quand il se trompait.
+
+L'analyse, l'interprétation des résultats et les recommandations finales sont les miennes.
+
 ## Outils et compétences
 
 - **Excel** : Power Query (nettoyage, typage, contrôle qualité), formules (`SOMME.SI.ENS`), tableaux de synthèse, graphiques, tableau de bord d'une page
